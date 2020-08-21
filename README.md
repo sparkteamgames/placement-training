@@ -1,3 +1,3 @@
 # pre-placement
 
-## [Here is the link.](https://sparkteamgames.github.io/Quantitative-Aptitude/)
+### [Click here to access the site.](https://sparkteamgames.github.io/placement-training/)
